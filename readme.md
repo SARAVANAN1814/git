@@ -7,3 +7,4 @@ This is a reademe file
 ## commit 1
 ## commit 2
 
+## ok, now this is the priority task, that i am doing, once completed, conflit will be there it need to resolved when stashed.
